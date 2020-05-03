@@ -6,7 +6,7 @@ void main() {
       home: Scaffold(
           backgroundColor: Colors.black,
           appBar: AppBar(
-              title: Center(child: Text('I am NHS')),
+              title: Center(child: Text('I am NHS - Ehtesham')),
               backgroundColor: Colors.blue),
           body: Center(
             child: Image(image: AssetImage('images/NHS.jpg')),
